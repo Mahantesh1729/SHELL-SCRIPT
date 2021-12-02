@@ -18,5 +18,5 @@ do
 	i=$(($i+1))
 done
 
-echo -e "The sum of first $n numbers is \c"
+echo -e "The sum of even numbers upto $n is \c"
 echo $sum
